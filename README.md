@@ -18,4 +18,4 @@ Este projeto consiste em uma calculadora simples desenvolvida em Python, capaz d
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/calculadora-python.git
+   git clone https://github.com/iisabellarodrigues/calculadora-python.git
